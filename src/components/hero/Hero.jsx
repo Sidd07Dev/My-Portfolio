@@ -61,19 +61,19 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="https://github.com/RohitWagh7272">
+                <a href="https://github.com/sidd07dev">
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/rsw72?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdh5M0EpuRCeKmGB17zduxw%3D%3D">
+                <a href="https://www.linkedin.com/in/sidhanta-pradhan-402979254/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/rohitwagh4444?utm_source=qr&igsh=YnQ1dWRjMWFpNnhk">
+                <a href="https://www.instagram.com/the_sidd_09/">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
@@ -98,7 +98,7 @@ const Hero = () => {
               >
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
-                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
+                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt1683134009107"
                   alt=""
                 />
                 <FaPlay className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />

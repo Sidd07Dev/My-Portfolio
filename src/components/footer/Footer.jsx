@@ -14,7 +14,7 @@ const Footer = () => {
           <a
             data-aos="fade-up"
             data-aos-duration="1400"
-            href="https://www.instagram.com/rohitwagh4444?utm_source=qr&igsh=YnQ1dWRjMWFpNnhk"
+            href="https://www.instagram.com/the_sidd_09/"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
