@@ -86,24 +86,11 @@ const Hero = () => {
             <img
               data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src="https://sidhantapradhan.cmas.co.in/assets/about-pic.png"
+              src="https://res.cloudinary.com/codebysidd/image/upload/v1728496511/wyghcrgbbyaht1p5m5fc.png"
               // src={mine}
               alt="mine"
             />
-            <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
-              <div
-                data-aos="zoom-in"
-                data-aos-duration="1000"
-                className=" relative cursor-pointer"
-              >
-                <img
-                  className=" w-[135px] md:w-[90px] circle-text"
-                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt1683134009107"
-                  alt=""
-                />
-                <FaPlay className=" text-black absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]" />
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
