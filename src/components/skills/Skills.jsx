@@ -18,6 +18,8 @@ import { FaReact } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { IoLogoNodejs } from "react-icons/io";
+import { SiDocker } from "react-icons/si";
+
 
 const Skills = ({ darkMode }) => {
   return (
@@ -70,7 +72,7 @@ const Skills = ({ darkMode }) => {
                 logo={<SiMysql />}
                 black={"white"}
                 white={"black"}
-                skill={"SQl"}
+                skill={"MySQl"}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
@@ -82,10 +84,10 @@ const Skills = ({ darkMode }) => {
               />
               <SkillBox
                 className=""
-                logo={<GrCode />}
+                logo={<SiDocker />}
                 black={"black"}
                 white={"white"}
-                skill={"MS Office"}
+                skill={"Docker"}
               />
               {/* <SkillBox
                 className=""
