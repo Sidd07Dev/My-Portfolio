@@ -98,12 +98,21 @@ const Resume = () => {
                   Year 2021 - Year 2024
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                  I am recently graduate .Hello! I am a passionate and dedicated
-                  aspiring student eagerly looking to kick-start my career
-                  journey. Proficient in a versatile range of technologies
-                  including Cascading Style Sheets (CSS), MySQL, JavaScript,
-                  Java. With hands-on experience in these
-                  languages and frameworks.
+                 
+                </p>
+              </div>
+              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg mt-2">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                 Higher Secondary (Science)
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Newton College Of +2 Science,Sambalpur
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  Year 2019 - Year 2021
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+                 
                 </p>
               </div>
             </div>
